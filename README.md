@@ -21,9 +21,9 @@ Chapters:
 
 [book]: http://www.manning.com/netherland/
 [license]: LICENSE.md
-[ch1]: chapter-01
-[ch3]: chapter-03
-[ch4]: chapter-04
-[ch5]: chapter-05
-[ch6]: chapter-06
-[ch10]: chapter-10
+[ch1]: original/chapter-01
+[ch3]: original/chapter-03
+[ch4]: original/chapter-04
+[ch5]: original/chapter-05
+[ch6]: original/chapter-06
+[ch10]: original/chapter-10
