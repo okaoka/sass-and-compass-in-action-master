@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAOA,cAAe;EAEX,KAAK,EAAE,KAAK;EARZ,iBAAG;IACN,KAAK,EAAE,IAAI;IACX,YAAY,EAHoB,IAAI;;AAYrC,cAAe;EAEX,UAAU,EAAE,GAAG;EAbf,iBAAG;IACN,KAAK,EAAE,IAAI;IACX,YAAY,EAUgB,IAAI",
+"sources": ["1.2.3.2.mixins-parameters.scss"],
+"names": [],
+"file": "1.2.3.2.mixins-parameters.css"
+}
